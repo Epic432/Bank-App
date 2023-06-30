@@ -1,1 +1,2 @@
 # Bank-App
+This a web app that simulate a online bank application bank_backend is a program written in java with SpringBoot and MongoDB as that database. It contains the backend api with CRUD endpoint mappings, the models, repositories and the services for the business logic. bank_frontedn is a program written in React.js that designs the website makes the calls to the Java backend api. To build frontend: npm run build To build backend that is the regular Java build configuration
