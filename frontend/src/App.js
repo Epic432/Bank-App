@@ -8,9 +8,6 @@ import LogIn from "./components/LogIn";
 import Account from "./components/Account/Account";
 
 function App() {
-  //axios.defaults.baseURL = "https://main.di5cn7pgswrz6.amplifyapp.com";
-  //axios.defaults.headers.common["Access-Control-Allow-Origin"] = "*";
-
   return (
     <div className="App">
       <header>
