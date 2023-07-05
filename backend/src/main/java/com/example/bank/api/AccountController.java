@@ -10,7 +10,7 @@ import java.util.List;
 
 @RequestMapping("api/v1/user/{userID}")
 @RestController
-@CrossOrigin(origins = "*")
+
 public class AccountController {
 
     @Autowired
